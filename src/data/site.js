@@ -69,7 +69,14 @@ export const sections = [
         icon: 'bowlFood',
         badge: 'What to eat'
       },
-     {
+      {
+        title: '想听什么歌',
+        description: '不知道听什么的时候，就来这里随机发现一首今天想循环的歌。',
+        href: 'https://music.ayakacloud.cn',
+        icon: 'music4',
+        badge: 'Music'
+      },
+      {
         title: '项目仓库',
         description: '如果你更想看源码、技术实现和开发痕迹，可以从这里进。',
         href: 'https://github.com/KasuganoAyaka',
